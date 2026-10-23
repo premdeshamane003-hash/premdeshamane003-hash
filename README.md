@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Prem Deshamane
 
-<!--
-**premdeshamane003-hash/premdeshamane003-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CST Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science and Technology student passionate about learning programming, building projects, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- 💻 C Programming
+- 🐍 Python
+- 🌐 Web Development
+- 🔧 Git & GitHub
+- 🧩 Data Structures & Algorithms
+
+## 🛠️ Skills
+
+`C` `Python` `HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+## 📂 Projects
+
+- 🌱 **Farmer's Field Guide** — A web-based project designed to provide useful information for farmers.
+- 🚀 More projects coming soon...
+
+## 🎯 My Goal
+
+To become a skilled software developer and build useful real-world applications.
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn profile link here
+- 📧 Email: Add your professional email here
+
+---
+
+⭐ Thanks for visiting my profile!
